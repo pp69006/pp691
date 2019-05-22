@@ -7,6 +7,14 @@ class test1:
 		else:
 			print('non')
 
-
 	data = 1234
 	
+
+class tamere:
+
+	def ta(suce):
+
+		print(suce)
+
+	def fille(pisse):
+		return coucou
